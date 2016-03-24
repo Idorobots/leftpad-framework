@@ -1,0 +1,24 @@
+{
+  "name": "leftpad-framework",
+  "version": "0.0.1",
+  "description": "A JavaScript framework for left-padding your strings!",
+  "main": "index.js",
+  "dependencies": {
+    "left-pad": "0.0.3",
+    "is-positive-integer": "1.0.0"
+  },
+  "keywords": [
+    "leftpad",
+    "left",
+    "pad",
+    "padding",
+    "string",
+    "framework"
+  ],
+  "repository": {
+    "url": "git@github.com:idorobots/leftpad-framework.git",
+    "type": "git"
+  },
+  "author": "Idorobots",
+  "license": "MIT"
+}
